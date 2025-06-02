@@ -1,4 +1,13 @@
-# 💻 Gensyn AI RL Swarm Guide (Mac/Linux) 💻
+<div align="center">
+  <div style="display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/AirdropScriptFA/CryptoTechLooter/796c2e77cdef9dbd6d7ced6fc1aab995e640a153/IMG_20250518_151850_367.jpg" alt="CryptoTechLooter Logo" width="100" style="margin-right: 20px;"/>
+    <div>
+      <b>This Codes/Software Is Shared By <a href="https://t.me/cryptotechlooter">Crypto Tech Looter</a></b>
+    </div>
+  </div>
+</div>
+
+# 💻 Gensyn AI RL Swarm Guide 💻
 
 ## 📋 Device/System Requirements
 ![System Requirements](https://github.com/user-attachments/assets/4fbf23bb-846c-4def-be24-157c51fa0b4e)
